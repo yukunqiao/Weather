@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--指示图标-->
+    <dimen name="leadicons_marginbottom">60dip</dimen>
+    <dimen name="leadicon_width">10dip</dimen>
+    <dimen name="leadicon_height">10dip</dimen>
+    <dimen name="leadicon_margin">5dip</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">天气日报</string>
+
+    <string name="leadtext_description1">小图标1</string>
+    <string name="leadtext_description2">小图标2</string>
+    <string name="leadtext_description3">小图标3</string>
+    <string name="leadtext_description4">小图标4</string>
+</resources>

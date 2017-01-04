@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/choosecity" android:title="城市列表"/>
+    <item android:id="@+id/airindex" android:title="空气指数"/>
+</menu>
